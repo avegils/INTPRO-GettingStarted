@@ -1,0 +1,14 @@
+/*
+    TITLE: Getting Started
+    AUTHOR: Avery A. Gilstrap
+    CREATE DATE: 9 Jan 2024
+    PURPOSE: Understand the basics of HTML, CSS, and JS and Uploading Projects
+    LAST MODIFIED ON: 10 Jan 2024
+    LAST MODIFIED BY: Avery A. Gilstrap
+    MODIFICATION HISTORY:
+    10 Jan 2024 - Created base CSS file; Added p color alteration.
+*/
+
+p {
+    color:slateblue;
+}
